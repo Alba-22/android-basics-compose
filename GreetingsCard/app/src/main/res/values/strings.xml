@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GreetingsCard</string>
+    <string name="message_text">WTF is going on!</string>
+    <string name="from_text">ABC123</string>
+</resources>
